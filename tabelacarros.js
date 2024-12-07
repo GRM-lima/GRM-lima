@@ -1,6 +1,6 @@
 const carros2024 = [
      {
-        name: 'Ferrari',
+        nome: 'Ferrari',
         sigla:'FER',
         velocidadeMaxima: 340,
         potencia: 800,
@@ -9,7 +9,7 @@ const carros2024 = [
         preco: 300000,
      },
     {
-        name: 'Lamborghini',
+        nome: 'Lamborghini',
         sigla:'LAM',
         velocidadeMaxima: 355,
         potencia: 770,
@@ -18,7 +18,7 @@ const carros2024 = [
         preco: 330000,
     },
     {
-        name: 'BMW',
+        nome: 'BMW',
         sigla:'BMW',
         velocidadeMaxima: 200,
         potencia: 500,
@@ -27,7 +27,7 @@ const carros2024 = [
         preco: 120000,
     },
     {
-        name: 'Honda',
+        nome: 'Honda',
         sigla:'HON',
         velocidadeMaxima: 220,
         potencia: 200,
@@ -36,7 +36,7 @@ const carros2024 = [
         preco: 35000,
     },
     {
-        name: 'Ford',
+        nome: 'Ford',
         sigla:'FOR',
         velocidadeMaxima: 230,
         potencia: 250,
@@ -45,7 +45,7 @@ const carros2024 = [
         preco: 40000,
     },
     {
-        name: 'Audi',
+        nome: 'Audi',
         sigla:'AUD',
         velocidadeMaxima: 290,
         potencia: 650,
@@ -54,7 +54,7 @@ const carros2024 = [
         preco: 11500,
     },
     {
-        name: 'Porsche',
+        nome: 'Porsche',
         sigla:'POR',
         velocidadeMaxima: 180,
         potencia: 400,
@@ -63,7 +63,7 @@ const carros2024 = [
         preco: 25000,
     },
     {
-        name: 'Aston Martin',
+        nome: 'Aston Martin',
         sigla:'ASM',
         velocidadeMaxima: 500,
         potencia: 700,
@@ -72,7 +72,7 @@ const carros2024 = [
         preco: 42000,
     },
     {
-        name: 'Rolls Royce',
+        nome: 'Rolls Royce',
         sigla:'ROY',
         velocidadeMaxima: 680,
         potencia: 800,
